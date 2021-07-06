@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Xiaoqin Zhang</title>
+    <link>https://xqzhang-moji.github.io/personal-web/designs/</link>
+    <description>Recent content in Designs on Xiaoqin Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://xqzhang-moji.github.io/personal-web/designs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pandas</title>
+      <link>https://xqzhang-moji.github.io/personal-web/designs/pandas/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://xqzhang-moji.github.io/personal-web/designs/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>https://xqzhang-moji.github.io/personal-web/designs/seaborn/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://xqzhang-moji.github.io/personal-web/designs/seaborn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
